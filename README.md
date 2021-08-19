@@ -1,7 +1,10 @@
 # RoboND-simple_arm
 A mini-project to better explain pub-sub architecture in ROS. The C++ files in the src directory represent 3 nodes which are written to illustrate the following:
+
  simple_mover.cpp - Publishers in ROS
+ 
  arm_mover.cpp - Services in ROS
+ 
  look_away.cpp - Clients and Subscribers in ROS
 
 ## How to Launch the simulation?
